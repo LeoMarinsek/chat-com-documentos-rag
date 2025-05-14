@@ -1,0 +1,9 @@
+langchain 
+faiss-cpu 
+python-dotenv 
+huggingface_hub 
+PyMuPDF 
+langchain-community 
+pypdf 
+transformers 
+accelerate
